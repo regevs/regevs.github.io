@@ -13,6 +13,19 @@ author_profile: true
 
 ## Main publications
 
+- **Regev Schweiger**, Richard Durbin. [Ultrafast genome-wide inference of pairwise coalescence times](https://genome.cshlp.org/content/33/7/1023.short).  RECOMB 2023, Genome Research, 2023.
+
+- **Regev Schweiger**, Yaniv Erlich and Shai Carmi. FactorialHMM: [Fast and exact inference in factorial hidden Markov models](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty944/5184283). Bioinformatics, 2019.
+
+- **Regev Schweiger**, Eyal Fisher, Omer Weissbrod, Elior Rahmani, Liat Shenhav, Martina Muller-Nurasyid, Sonja Kunze, Christian Gieger, Melanie Waldenberger, Saharon Rosset, and Eran Halperin. [Detecting heritable phenotypes without a model using fast permutation testing for heritability and set-tests](https://www.nature.com/articles/s41467-018-07276-w). Nature Communications, 2018.
+
+- **Regev Schweiger**, Omer Weissbrod, Elior Rahmani, Martina Muller-Nurasyid, Sonja Kunze, Christian Gieger, Melanie Waldenberger, Saharon Rosset, and Eran Halperin. [RL-SKAT: An exact and efficient score test for heritability and set tests](http://www.genetics.org/content/207/4/1275). Genetics, 2017. 
+
+- **Regev Schweiger**, Shachar Kaufman, Reijo Laaksonen, Marcus Kleber, Winfried Marz, Eleazar Eskin, Saharon Rosset and Eran Halperin. [Fast and accurate construction of confidence intervals for heritability](https://www.sciencedirect.com/science/article/pii/S0002929716301434). The American Journal of Human Genetics, 2016.
+
+- **Regev Schweiger**, Eyal Fisher, Elior Rahmani, Liat Shenhav, Saharon Rosset, and Eran Halperin. [Using stochastic approximation techniques to efficiently construct confidence intervals for heritability](https://www.liebertpub.com/doi/pdfplus/10.1089/cmb.2018.0047). RECOMB 2017, Journal of Computational Biology, 2018.
+
+
 ## Working papers
 
 ## Preprints
@@ -33,7 +46,7 @@ author_profile: true
 
 ### 2023
 
-- **Regev Schweiger**, Richard Durbin. [Ultrafast genome-wide inference of pairwise coalescence times](https://genome.cshlp.org/content/33/7/1023.short). Genome Research, 2023.
+- **Regev Schweiger**, Richard Durbin. [Ultrafast genome-wide inference of pairwise coalescence times](https://genome.cshlp.org/content/33/7/1023.short). RECOMB 2023, Genome Research, 2023.
 
 ### 2020
 
