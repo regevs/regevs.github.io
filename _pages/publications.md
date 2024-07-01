@@ -13,9 +13,9 @@ author_profile: true
 
 ## Working papers
 
-- Trevor Cousins*, **Regev Schweiger***, Richard Durbin. _Deep demographic history of the human lineage_. (* = equal contribution)
+- Trevor Cousins\*, **Regev Schweiger**\*, Richard Durbin. _Deep demographic history of the human lineage_. (* = equal contribution)
 
-- **Regev Schweiger***, Bianca De Sanctis*, Cali Gallardo, Gemma Murray and John Welch. _Correcting pathogen genealogies from the effects of purifying selection_. (* = equal contribution)
+- **Regev Schweiger**\*, Bianca De Sanctis\*, Cali Gallardo, Gemma Murray and John Welch. _Correcting pathogen genealogies from the effects of purifying selection_. (* = equal contribution)
 
 - **Regev Schweiger**, ..., Shane McCarthy, Richard Durbin. _Accurate coverage estimation using BUSCO genes_.
 
@@ -28,7 +28,7 @@ author_profile: true
 
 - Ella Petter, **Regev Schweiger**, Bar Shahino, Tal Shor, Malka Aker, Lior Almog, Daphna Weissglas-Volkov, Yoav Naveh, Oron Navon, Shai Carmi, Jeremiah H Li, Tomaz Berisa, Joseph K Pickrell, Yaniv Erlich. [Relative matching using low coverage sequencing](https://www.biorxiv.org/content/10.1101/2020.09.09.289322v3.abstract). bioRxiv, 2020.
 
-- **Regev Schweiger***, Matan Gavish*, Elior Rahmani and Eran Halperin, ReFACTor: [Practical low-rank matrix estimation under column-sparsity](https://arxiv.org/abs/1705.07654). arXiv preprint, 2017. (* = equal contribution)
+- **Regev Schweiger**\*, Matan Gavish\*, Elior Rahmani and Eran Halperin, ReFACTor: [Practical low-rank matrix estimation under column-sparsity](https://arxiv.org/abs/1705.07654). arXiv preprint, 2017. (* = equal contribution)
 ## Main publications
 
 - **Regev Schweiger**, Richard Durbin. [Ultrafast genome-wide inference of pairwise coalescence times](https://genome.cshlp.org/content/33/7/1023.short).  RECOMB 2023, Genome Research, 2023.
@@ -87,7 +87,7 @@ author_profile: true
 
 - Omer Weissbrod, Elior Rahmani, **Regev Schweiger**, Saharon Rosset and Eran Halperin. [Association testing of bisulfite sequencing methylation data via a Laplace approximation](https://academic.oup.com/bioinformatics/article/33/14/i325/3953963). Bioinformatics, Proceedings of ISMB/ECCB 2017. 
 
-- Elior Rahmani*, Reut Yedidim*, Liat Shenhav, **Regev Schweiger**, Omer Weissbrod, Noah Zaitlen and Eran Halperin. [GLINT: A user-friendly toolset for the analysis of high-throughput DNA methylation array data](https://academic.oup.com/bioinformatics/article/33/12/1870/2976715). Bioinformatics, 2017. (* = equal contribution)
+- Elior Rahmani\*, Reut Yedidim\*, Liat Shenhav, **Regev Schweiger**, Omer Weissbrod, Noah Zaitlen and Eran Halperin. [GLINT: A user-friendly toolset for the analysis of high-throughput DNA methylation array data](https://academic.oup.com/bioinformatics/article/33/12/1870/2976715). Bioinformatics, 2017. (* = equal contribution)
 
 - Elior Rahmani, Liat Shenhav, **Regev Schweiger**, Paul Yousefi, Karen Huen, Brenda Eskenazi, Celeste Eng, Scott Huntsman, Donglei Hu, Joshua Galanter, Sam Oh, Melanie Waldenberger, Konstantin Strauch, Harald Grallert, Thomas Meitinger, Christian Gieger, Nina Holland, Esteban Burchard, Noah Zaitlen and Eran Halperin. [Genome-wide methylation data mirror ancestry information](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0108-y). Epigenetics & Chromatin, 2017. 
 
