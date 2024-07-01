@@ -29,6 +29,7 @@ author_profile: true
 - Ella Petter, **Regev Schweiger**, Bar Shahino, Tal Shor, Malka Aker, Lior Almog, Daphna Weissglas-Volkov, Yoav Naveh, Oron Navon, Shai Carmi, Jeremiah H Li, Tomaz Berisa, Joseph K Pickrell, Yaniv Erlich. [Relative matching using low coverage sequencing](https://www.biorxiv.org/content/10.1101/2020.09.09.289322v3.abstract). bioRxiv, 2020.
 
 - **Regev Schweiger**\*, Matan Gavish\*, Elior Rahmani and Eran Halperin, ReFACTor: [Practical low-rank matrix estimation under column-sparsity](https://arxiv.org/abs/1705.07654). arXiv preprint, 2017. (* = equal contribution)
+
 ## Main publications
 
 - **Regev Schweiger**, Richard Durbin. [Ultrafast genome-wide inference of pairwise coalescence times](https://genome.cshlp.org/content/33/7/1023.short).  RECOMB 2023, Genome Research, 2023.
