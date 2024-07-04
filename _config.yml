@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Regev Schweiger"
+title                    : "about me"
 title_separator          : "-"
 name                     : &name "Regev Schweiger"
 description              : &description "personal description"
