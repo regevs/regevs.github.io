@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV summary"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Academia 
+#### Research Associate, _Department of Genetics, University of Cambridge, Cambridge, UK_, 2020-2024
+- Supervisor: Prof. Richard Durbin
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#### Ph.D in Computer Science, _Tel Aviv University, Tel-Aviv, Israel_, 2014-2018
+- Supervisor: Prof. Eran Halperin
+- Teaching Assistant in _Introduction to Machine Learning_, 2014-2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#### M.Sc. in Computer Science, _The Hebrew University of Jerusalem, Jerusalem, Israel_, 2008-2010
+- Supervisors: Prof. Michal Linial and Prof. Nati Linial
+- Graduated _magna cum laude_
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#### B.A. in Computer Science, _The Open University, Israel_, 1998-2003
+- Graduated _cum laude_
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Honors and Awards
+- **EMBO Postdoctoral Fellowship**, 2021-2023
+- **Blavatnik Cambridge Fellowship** (declined), 2021
+- RECOMB Travel Fellowship Award, 2017
+- **ASHG/Charles J. Epstein Trainee Award for Excellence in Human Genetics Research – Semifinalist**, 2015
+- **Colton Fellowship**, 2015-2018
+- Edmond J. Safra Fellowship, 2014-2017
+- ISMB Travel Fellowship, 2011
+- Sudarsky Travel Fellowship Award, ISMB, 2010
+- Sudarsky Fellowship awarded by the SCCB Center, 2009 - 2010
+- Liss Award, 2009
+
+## Industry
+#### Scientific Consultant, 2020-present 
+- Scientific consulting to biotech companies
+
+#### Senior Bioinformatician Scientist and Team Leader, _MyHeritage, Or Yehuda, Israel_, 2017-2020 
+- Leader of a research team, developing algorithms for DNA relative matching, ethnicity analysis, health applications and more.
+
+#### Software Engineer, _Google, Tel Aviv, Israel_, 2011-2013 
+- Building a large-scale network data analysis infrastructure.
+- Side project: Computer-vision related application for the Google Glass prototype.
+
+#### Algorithm Developer, _Applied Materials, Rehovot, Israel_, 2007-2008 
+- Developing algorithms in the ﬁelds of image processing, machine learning and computer vision, for the purpose of defect detection on masks (mask inspection) for the semiconductor industry.
