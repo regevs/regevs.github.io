@@ -39,7 +39,7 @@ author_profile: true
   [[github]](https://github.com/regevs/factorial_hmm)
 
 - **Regev Schweiger**, Eyal Fisher, Omer Weissbrod, Elior Rahmani, Liat Shenhav, Martina Muller-Nurasyid, Sonja Kunze, Christian Gieger, Melanie Waldenberger, Saharon Rosset, and Eran Halperin. [Detecting heritable phenotypes without a model using fast permutation testing for heritability and set-tests](https://www.nature.com/articles/s41467-018-07276-w). Nature Communications, 2018.
-  [[github]](https://github.com/regevs/feather)
+  [[github]](https://github.com/cozygene/feather)
 
 - **Regev Schweiger**, Omer Weissbrod, Elior Rahmani, Martina Muller-Nurasyid, Sonja Kunze, Christian Gieger, Melanie Waldenberger, Saharon Rosset, and Eran Halperin. [RL-SKAT: An exact and efficient score test for heritability and set tests](http://www.genetics.org/content/207/4/1275). Genetics, 2017.
   [[github]](http://github.com/cozygene/RL-SKAT)
