@@ -5,8 +5,6 @@ permalink: /software/
 author_profile: true
 ---
 
-# Software 
-
 **Gamma-SMC** is an ultra-fast method to infer the pairwise coalesence times between a set of haplotypes in a large dataset. This inference is used in reconstructing demographic histories, detecting selection signatures, studying genome-wide associations, constructing ancestral recombination graphs, and more. Gamma-SMC is more than 10 times faster than current methods (0.14 seconds for a whole genome).
 <br>
 [[github]](https://github.com/regevs/gamma_smc) [[paper]](https://genome.cshlp.org/content/33/7/1023.short)
