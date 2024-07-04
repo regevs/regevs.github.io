@@ -23,7 +23,7 @@ author_profile: true
 <br>
 <br>
 
-**RL-SKAT** (Fast confidence IntErvals using STochastic Approximation) is a method for constructing accurate confidence intervals (CIs) for heritability. FIESTA builds accurate CIs rapidly, e.g., requiring only several seconds for datasets of tens of thousands of individuals.
+**RL-SKAT** is a method for the calculation of exact p-values for the score test in heritability, in the case of a single kernel and a continuous phenotype.
 <br>
 [[github]](https://github.com/cozygene/RL-SKAT) [[paper]](http://www.genetics.org/content/207/4/1275)
 <br>
