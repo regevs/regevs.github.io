@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 
 ## Academia 
-#### Research Associate, _Department of Genetics, University of Cambridge, Cambridge, UK_, 2020-2024
+### Research Associate, _Department of Genetics, University of Cambridge, Cambridge, UK_, 2020-2024
 - Supervisor: Prof. Richard Durbin
 
-#### Ph.D in Computer Science, _Tel Aviv University, Tel-Aviv, Israel_, 2014-2018
+### Ph.D in Computer Science, _Tel Aviv University, Tel-Aviv, Israel_, 2014-2018
 - Supervisor: Prof. Eran Halperin
 - Teaching Assistant in _Introduction to Machine Learning_, 2014-2016
 
-#### M.Sc. in Computer Science, _The Hebrew University of Jerusalem, Jerusalem, Israel_, 2008-2010
+### M.Sc. in Computer Science, _The Hebrew University of Jerusalem, Jerusalem, Israel_, 2008-2010
 - Supervisors: Prof. Michal Linial and Prof. Nati Linial
 - Graduated _magna cum laude_
 
-#### B.A. in Computer Science, _The Open University, Israel_, 1998-2003
+### B.A. in Computer Science, _The Open University, Israel_, 1998-2003
 - Graduated _cum laude_
 
 ## Honors and Awards
@@ -37,15 +37,15 @@ redirect_from:
 - Liss Award, 2009
 
 ## Industry
-#### Scientific Consultant, 2020-present 
+### Scientific Consultant, 2020-present 
 - Scientific consulting to biotech companies
 
-#### Senior Bioinformatician Scientist and Team Leader, _MyHeritage, Or Yehuda, Israel_, 2017-2020 
+### Senior Bioinformatician Scientist and Team Leader, _MyHeritage, Or Yehuda, Israel_, 2017-2020 
 - Leader of a research team, developing algorithms for DNA relative matching, ethnicity analysis, health applications and more.
 
-#### Software Engineer, _Google, Tel Aviv, Israel_, 2011-2013 
+### Software Engineer, _Google, Tel Aviv, Israel_, 2011-2013 
 - Building a large-scale network data analysis infrastructure.
 - Side project: Computer-vision related application for the Google Glass prototype.
 
-#### Algorithm Developer, _Applied Materials, Rehovot, Israel_, 2007-2008 
+### Algorithm Developer, _Applied Materials, Rehovot, Israel_, 2007-2008 
 - Developing algorithms in the ﬁelds of image processing, machine learning and computer vision, for the purpose of defect detection on masks (mask inspection) for the semiconductor industry.
