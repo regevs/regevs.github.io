@@ -22,6 +22,8 @@ author_profile: true
 
 ## Preprints
 
+-  **Regev Schweiger**\*, Sangjin Lee\*,  Chenxi Zhou, Tsun-Po Yang, Katie Smith, Stacy Li, Rashesh Sanghvi, Matthew Neville, Emily Mitchell, Ayrun Nessa, Sam Wadge, Kerrin S Small, Peter J Campbell, Peter H Sudmant, Raheleh Rahbari, Richard Durbin. [Insights into non-crossover recombination from long-read sperm sequencing](https://www.biorxiv.org/content/10.1101/2024.07.05.602249v1). bioRxiv, 2024.
+
 - Leon Hilgers, Shenglin Liu, Axel Jensen, Thomas Brown, Trevor Cousins, **Regev Schweiger**, Katerina Guschanski, Michael Hiller. [Avoidable false PSMC population size peaks occur across numerous studies](https://www.biorxiv.org/content/10.1101/2024.06.17.599025v1.abstract). bioRxiv, 2024.
 
 - Elior Rahmani, Brandon Jew, **Regev Schweiger**, Brooke Rhead, Lindsey A. Criswell, Lisa F. Barcellos, Eleazar Eskin, Saharon Rosset, Sriram Sankararaman, Eran Halperin. [Calling differential DNA methylation at cell-type resolution: addressing misconceptions and best practices](https://www.biorxiv.org/content/10.1101/2021.02.14.431168v1.abstract). bioRxiv, 2021
