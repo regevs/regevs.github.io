@@ -21,7 +21,7 @@ repository               : "regevs/regevs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "regev_photo.jpg"
+  avatar           : "profile.png"
   name             : "Regev Schweiger"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
