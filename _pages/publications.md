@@ -17,14 +17,12 @@ author_profile: true
 
 - **Regev Schweiger**\*, Bianca De Sanctis\*, Cali Gallardo, Gemma Murray and John Welch. _Correcting pathogen genealogies from the effects of purifying selection_. (* = equal contribution)
 
-- **Regev Schweiger**, ..., Shane McCarthy, Richard Durbin. _Accurate coverage estimation using BUSCO genes_.
+- **Regev Schweiger**, Shane McCarthy, Richard Durbin. _Accurate coverage estimation using BUSCO genes_.
 
 
 ## Preprints
 
 -  **Regev Schweiger**\*, Sangjin Lee\*,  Chenxi Zhou, Tsun-Po Yang, Katie Smith, Stacy Li, Rashesh Sanghvi, Matthew Neville, Emily Mitchell, Ayrun Nessa, Sam Wadge, Kerrin S Small, Peter J Campbell, Peter H Sudmant, Raheleh Rahbari, Richard Durbin. [Insights into non-crossover recombination from long-read sperm sequencing](https://www.biorxiv.org/content/10.1101/2024.07.05.602249v1). bioRxiv, 2024.
-
-- Leon Hilgers, Shenglin Liu, Axel Jensen, Thomas Brown, Trevor Cousins, **Regev Schweiger**, Katerina Guschanski, Michael Hiller. [Avoidable false PSMC population size peaks occur across numerous studies](https://www.biorxiv.org/content/10.1101/2024.06.17.599025v1.abstract). bioRxiv, 2024.
 
 - Elior Rahmani, Brandon Jew, **Regev Schweiger**, Brooke Rhead, Lindsey A. Criswell, Lisa F. Barcellos, Eleazar Eskin, Saharon Rosset, Sriram Sankararaman, Eran Halperin. [Calling differential DNA methylation at cell-type resolution: addressing misconceptions and best practices](https://www.biorxiv.org/content/10.1101/2021.02.14.431168v1.abstract). bioRxiv, 2021
 
@@ -55,6 +53,8 @@ author_profile: true
 ## Full list of publications
 
 ### 2024
+
+- Leon Hilgers, Shenglin Liu, Axel Jensen, Thomas Brown, Trevor Cousins, **Regev Schweiger**, Katerina Guschanski, Michael Hiller. [Avoidable false PSMC population size peaks occur across numerous studies](https://www.biorxiv.org/content/10.1101/2024.06.17.599025v1.abstract). bioRxiv, 2024. Accepted to Current Biology.
 
 - Michelle Grunin, Daria Triffon, Gala Beykin, Elior Rahmani, **Regev Schweiger**, Liran Tiosano, Samer Khateb, Shira Hagbi-Levi, Batya Rinsky, Refael Munitz, Thomas W Winkler, Iris M Heid, Eran Halperin, Shai Carmi, Itay Chowers. [Genome wide association study and genomic risk prediction of age related macular degeneration in Israel](https://www.nature.com/articles/s41598-024-63065-0). Scientific Reports, 2024.
 
