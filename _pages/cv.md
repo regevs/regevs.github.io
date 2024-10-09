@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Academia 
-### Research Associate, _Department of Genetics, University of Cambridge, Cambridge, UK_, 2020-2024
+### Research Associate, _Department of Genetics, University of Cambridge, Cambridge, UK_, 2021-2024
 - Supervisor: Prof. Richard Durbin
 
 ### Ph.D in Computer Science, _Tel Aviv University, Tel-Aviv, Israel_, 2014-2018
