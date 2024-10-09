@@ -64,9 +64,9 @@ author_profile: true
 
 ### 2020
 
-- Michelle Grunin, Gala Beykin, Elior Rahmani, **Regev Schweiger**, Gal Barel, Shira Levi, Sarah Hayoun, Batya Rinsky, Michal Ganiel, Shai Carmi, Eran Halperin, Itay Chowers. [Association of a Variant in VWA3A with Response to Anti-VEGF Treatment in Neovascular Age-Related Macular Degeneration](https://scholar.google.com/scholar?cluster=1406931460777928260&hl=en&oi=scholarr). Investigative Ophthalmology & Visual Science, 2020.
+- Michelle Grunin, Gala Beykin, Elior Rahmani, **Regev Schweiger**, Gal Barel, Shira Levi, Sarah Hayoun, Batya Rinsky, Michal Ganiel, Shai Carmi, Eran Halperin, Itay Chowers. [Association of a variant in VWA3A with response to anti-VEGF treatment in Neovascular Age-Related Macular Degeneration](https://scholar.google.com/scholar?cluster=1406931460777928260&hl=en&oi=scholarr). Investigative Ophthalmology & Visual Science, 2020.
 
-- Eyal Fisher, **Regev Schweiger**, Saharon Rosset. [Efficient Construction of Test Inversion Confidence Intervals Using Quantile Regression](https://www.tandfonline.com/doi/full/10.1080/10618600.2019.1647215). Journal of Computational and Graphical Statistics, 2020.
+- Eyal Fisher, **Regev Schweiger**, Saharon Rosset. [Efficient construction of test inversion confidence intervals using quantile regression](https://www.tandfonline.com/doi/full/10.1080/10618600.2019.1647215). Journal of Computational and Graphical Statistics, 2020.
 
 ### 2019
 
