@@ -13,8 +13,6 @@ author_profile: true
 
 ## Working papers
 
-- Trevor Cousins\*, **Regev Schweiger**\*, Richard Durbin. _Deep demographic history of the human lineage_. (* = equal contribution)
-
 - **Regev Schweiger**\*, Bianca De Sanctis\*, Cali Gallardo, Gemma Murray and John Welch. _Correcting pathogen genealogies from the effects of purifying selection_. (* = equal contribution)
 
 - **Regev Schweiger**, Shane McCarthy, Richard Durbin. _Accurate coverage estimation using BUSCO genes_.
@@ -23,6 +21,8 @@ author_profile: true
 ## Preprints
 
 -  **Regev Schweiger**\*, Sangjin Lee\*,  Chenxi Zhou, Tsun-Po Yang, Katie Smith, Stacy Li, Rashesh Sanghvi, Matthew Neville, Emily Mitchell, Ayrun Nessa, Sam Wadge, Kerrin S Small, Peter J Campbell, Peter H Sudmant, Raheleh Rahbari, Richard Durbin. [Insights into non-crossover recombination from long-read sperm sequencing](https://www.biorxiv.org/content/10.1101/2024.07.05.602249v1). bioRxiv, 2024.
+
+- Trevor Cousins\*, **Regev Schweiger**\*, Richard Durbin. _Deep demographic history of the hominin lineage_, bioRxiv, 2024. (* = equal contribution)
 
 - Elior Rahmani, Brandon Jew, **Regev Schweiger**, Brooke Rhead, Lindsey A. Criswell, Lisa F. Barcellos, Eleazar Eskin, Saharon Rosset, Sriram Sankararaman, Eran Halperin. [Calling differential DNA methylation at cell-type resolution: addressing misconceptions and best practices](https://www.biorxiv.org/content/10.1101/2021.02.14.431168v1.abstract). bioRxiv, 2021
 
