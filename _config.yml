@@ -24,9 +24,9 @@ author:
   avatar           : "regev_photo.jpg"
   name             : "Regev Schweiger"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
-  location         : "University of Cambridge"
-  employer         : "Department of Genetics"
+  #bio              : "Soon: PI @ T"
+  #location         : "University of Cambridge"
+  #employer         : "Department of Genetics"
   uri              : # URL
   email            : "regevs@gmail.com" 
 
